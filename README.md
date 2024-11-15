@@ -52,9 +52,10 @@ Berikut adalah pembagian rute dan subnetting yang telah dilakukan
 ![alt text](<WhatsApp Image 2024-11-16 at 04.52.44 (1).jpeg>)
 
 - Pengelompokan 5
+
 ![alt text](image-4.png)
 
-![alt text](<WhatsApp Image 2024-11-16 at 04.52.44 (1)-1.jpeg>)
+![alt text](<WhatsApp Image 2024-11-16 at 04.52.42.jpeg>)
 
 - Pengelompokan 6
 
@@ -66,13 +67,13 @@ Berikut adalah pembagian rute dan subnetting yang telah dilakukan
 
 ![alt text](image-6.png)
 
-![alt text](<WhatsApp Image 2024-11-16 at 04.52.42 (1)-1.jpeg>)
+![alt text](<WhatsApp Image 2024-11-16 at 04.52.42 (2).jpeg>)
 
 - Pengelompokan 8
 
 ![alt text](image-7.png)
 
-![alt text](<WhatsApp Image 2024-11-16 at 04.52.44 (2).jpeg>)
+![alt text](<WhatsApp Image 2024-11-16 at 04.52.44-1.jpeg>)
 
 - Pengelompokan 9
 
