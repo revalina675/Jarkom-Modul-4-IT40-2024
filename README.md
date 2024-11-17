@@ -83,7 +83,7 @@ Berikut adalah pembagian rute dan subnetting yang telah dilakukan
 
 ### Tree
 Setelah dilakukan pengelompokan IP sebelumnya, kita akan melakukan pembagian IP menggunakan `tree` untuk kelompok yang telah dibagikan sebelumnya dengan hasil seperti berikut
-![alt text](<GNS3-CIDR modul4jarkom.drawio.png>)
+![WhatsApp Image 2024-11-17 at 21 48 01](https://github.com/user-attachments/assets/9902380f-cacf-4781-82ec-416133cb7cbf)
 
 ### Pembagian IP
 Berikut adalah hasil pembagian IP berdasarkan tree yang telah dibuat
