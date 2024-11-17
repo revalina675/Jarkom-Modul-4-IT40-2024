@@ -87,5 +87,6 @@ Setelah dilakukan pengelompokan IP sebelumnya, kita akan melakukan pembagian IP 
 
 ### Pembagian IP
 Berikut adalah hasil pembagian IP berdasarkan tree yang telah dibuat
+![image](https://github.com/user-attachments/assets/f0238dce-5ecf-4b52-8bf9-a677a6ba98e7)
 
 ## Konfigurasi Network pada GNS3
